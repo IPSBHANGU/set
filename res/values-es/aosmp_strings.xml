@@ -392,4 +392,8 @@
     <!-- Charging vibration -->
     <string name="charging_vibro_title">Vibración al cargar</string>
 
+    <!-- Scramble PIN Layout on Lockscreen -->
+    <string name="unlock_scramble_pin_layout_title">Diseño mezclado</string>
+    <string name="unlock_scramble_pin_layout_summary">Mezclar el diseño del PIN al desbloquear el dispositivo</string>
+
 </resources>
