@@ -8,4 +8,9 @@
     <string name="ringtone1_title">Phone ringtone - SIM 1</string>
     <string name="ringtone2_title">Phone ringtone - SIM 2</string>
 
+    <!-- Battery stats reset -->
+    <string name="battery_stats_reset">Reset stats</string>
+    <string name="battery_stats_message">Battery history stats are going to be reset</string>
+    <string name="ok_string">Ok</string>
+
 </resources>
