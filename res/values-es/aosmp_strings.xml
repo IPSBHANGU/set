@@ -396,4 +396,8 @@
     <string name="unlock_scramble_pin_layout_title">Diseño mezclado</string>
     <string name="unlock_scramble_pin_layout_summary">Mezclar el diseño del PIN al desbloquear el dispositivo</string>
 
+    <!-- Quick unlock -->
+    <string name="unlock_quick_unlock_control_title">Desbloqueo rápido</string>
+    <string name="unlock_quick_unlock_control_summary">Desbloquee automáticamente cuando ingrese el PIN / contraseña correctos</string>
+
 </resources>
