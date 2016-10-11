@@ -21,6 +21,14 @@
     android:key="device_info_pref_screen"
     android:title="@string/about_settings">
 
+    <!-- Changelog -->
+    <Preference
+        android:key="changelog"
+        android:order="1"
+        android:title="@string/changelog_title"
+        android:summary="@string/changelog_summary"
+        android:fragment="com.android.settings.aosmp.Changelog" />
+        
     <!-- SIM status -->
     <Preference
         android:key="sim_status"
