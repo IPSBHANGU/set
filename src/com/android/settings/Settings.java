@@ -167,4 +167,7 @@ public class Settings extends SettingsActivity {
     public static class SystemDashboardActivity extends SettingsActivity {}
     public static class AOSmPSettingsActivity extends SettingsActivity {}
 
+    // AOSmP Additions
+    public static class DevRunningServicesActivity extends SettingsActivity { /* empty */ }
+
 }
