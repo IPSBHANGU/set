@@ -69,5 +69,9 @@
     
     <!-- Screenshot sound -->
     <string name="screenshot_sound_title">Screenshot sound</string>
+ 
+    <!-- AOSmP Settings -->
+    <string name="aosmp_settings_title">AOSmP settings</string>
+    <string name="aosmp_settings_summary">Additional features</string>
     
 </resources>
