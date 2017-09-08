@@ -38,4 +38,14 @@
 	<!-- Notification log -->
     <string name="notification_log_summary">Show notifications history log</string>
 
+    <!-- About phone screen, AOSmP version -->
+    <string name="aosmp_version">AOSmP version</string>
+    <string name="aosmp_version_default">Unknown</string>
+    <string name="keywords_aosmp_version">AOSmP version, aosmp version</string>
+
+    <!-- About phone screen, build date -->
+    <string name="build_date">Build date</string>
+    <string name="build_date_default">2015-01-01-0000</string>
+    <string name="keywords_build_date">build date, build info</string>
+   
 </resources>
