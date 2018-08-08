@@ -3345,8 +3345,8 @@
         <!-- AOSmP Settings -->
         <activity android:name=".Settings$AOSmPSettingsActivity"
             android:label="@string/aosmp_settings_title"
-			android:icon="@drawable/ic_settings_aosmp"  
-            android:taskAffinity="">
+			android:icon="@drawable/ic_homepage_aosmp"  
+            android:taskAffinity="com.android.settings">
             <intent-filter android:priority="1">
                 <action android:name="com.aosmp.settings.AOSmPSettings" />
                 <category android:name="android.intent.category.DEFAULT" />
