@@ -389,4 +389,7 @@
     <string name="data_usage_app_restrict_wifi">Datos de WiFi</string>
     <string name="data_usage_app_restrict_wifi_summary">Habilitar el uso de datos via WiFi</string>
 
+    <!-- Charging vibration -->
+    <string name="charging_vibro_title">Vibración al cargar</string>
+
 </resources>
