@@ -77,5 +77,10 @@
     <!-- Three-fingers-swipe to screenshot -->
     <string name="swipe_to_screenshot_gesture_title">Swipe to screenshot</string>
     <string name="swipe_to_screenshot_gesture_summary">Swipe three fingers to take screenshot</string>
+
+    <!-- System theme -->
+    <string name="system_theme_wallpaper">Automatic (based on time of day)</string>
+    <string name="system_theme_light">Light</string>
+    <string name="system_theme_dark">Dark</string>
     
 </resources>
