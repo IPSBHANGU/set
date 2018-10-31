@@ -117,8 +117,9 @@
     <!-- QS tile styles -->
     <string name="qs_tile_style_title">Estilo icono de ajustes rápidos</string>
     <string name="qs_tile_style_default">Por defecto</string>
-    <string name="qs_tile_style_circle_trim">Circulo con ribete</string>
-    <string name="qs_tile_style_two_tone_circle">Círculo bicolor con ribete</string>
-    <string name="qs_tile_style_squircle_trim">Squircle con ribete</string>
-   
+    <string name="qs_tile_style_square">Square</string>
+    <string name="qs_tile_style_rounded_square">Cuadrado redondeado</string>
+    <string name="qs_tile_style_squircle">Squircle</string>
+	<string name="qs_tile_style_tear_drop">Gota de lágrima</string>
+
 </resources>
