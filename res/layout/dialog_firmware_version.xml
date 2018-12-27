@@ -47,6 +47,7 @@
             style="@style/device_info_dialog_value"
             android:id="@+id/aosmp_version_value"
             android:layout_width="match_parent"
+            android:textColor="?android:attr/colorAccent"
             android:layout_height="wrap_content"/>
 
         <TextView
