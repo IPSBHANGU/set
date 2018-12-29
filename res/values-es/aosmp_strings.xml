@@ -371,4 +371,14 @@
     <string name="changelog_loading">Cargando registro de cambios\u2026</string>
     <string name="changelog_error">No se puede cargar el registro de cambios</string>
 
+    <!-- Switch styles -->
+    <string name="switch_style_title">Estilos de switch</string>
+    <string name="switch_default">Por defecto</string>
+    <string name="switch_md2">Diseño Material 2</string>
+    <string name="switch_oneplus">OnePlus</string>
+    <string name="switch_narrow">Estrecho</string>
+    <string name="switch_contained">Contenido</string>
+    <string name="switch_retro">Retro</string>
+    <string name="switch_stockish">Stockish</string>
+
 </resources>

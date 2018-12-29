@@ -150,6 +150,13 @@
             android:key="qs_tile_style"
             android:title="@string/qs_tile_style_title" />
 
+        <ListPreference
+            android:key="switch_styler"
+            android:title="@string/switch_style_title"
+            android:persistent="false"
+            android:entries="@array/switch_style_entries"
+            android:entryValues="@array/switch_style_values" />
+
 		<com.android.settings.display.FontDialogPreference
 			android:key="custom_font"
 			android:icon="@drawable/ic_font_picker"
