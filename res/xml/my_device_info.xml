@@ -72,14 +72,6 @@
         settings:keywords="@string/keywords_android_version"
         android:summary="@string/summary_placeholder"/>
 
-    <!-- AOSmP version --> 
-    <Preference 
-        android:key="aosmp_version"
-        android:order="32"
-        android:title="@string/aosmp_version"
-        settings:keywords="@string/keywords_aosmp_version"
-        android:summary="@string/aosmp_version_default"/>
-
      <!-- Build date -->
     <Preference 
        android:key="build_date"
