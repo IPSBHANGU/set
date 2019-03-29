@@ -3345,6 +3345,7 @@
         <!-- AOSmP Settings -->
         <activity android:name=".Settings$AOSmPSettingsActivity"
             android:label="@string/aosmp_settings_title"
+			android:icon="@drawable/ic_settings_aosmp"  
             android:taskAffinity="">
             <intent-filter android:priority="1">
                 <action android:name="com.aosmp.settings.AOSmPSettings" />
