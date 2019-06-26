@@ -114,6 +114,8 @@
     <string name="smart_charging_level_title">Parar nivel de ejecución</string>
     <string name="smart_charging_resume_level_title">Comenzar nivel de ejecución</string>
     <string name="smart_charging_footer">La carga inteligente le permite establecer el nivel máximo de carga para prolongar la vida útil de su batería</string>   
+    <string name="smart_charging_reset_stats_title">Restablecer estadísticas de la batería</string>
+    <string name="smart_charging_reset_stats_summary">Restablecer las estadísticas de la batería después de alcanzar el nivel de carga definido por el usuario</string>
 
     <!-- QS tile styles -->
     <string name="qs_tile_style_title">Estilo icono de ajustes rápidos</string>
