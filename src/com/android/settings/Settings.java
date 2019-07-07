@@ -183,5 +183,5 @@ public class Settings extends SettingsActivity {
 
     // AOSmP Additions
     public static class DevRunningServicesActivity extends SettingsActivity { /* empty */ }
-
+    public static class GamingModeActivity extends SettingsActivity { /* empty */ }
 }

@@ -25,6 +25,7 @@ import com.android.settings.PrivacySettings;
 import com.android.settings.Settings;
 import com.android.settings.Settings.FlingSettingsActivity;
 import com.android.settings.Settings.NavigationSettingsActivity;
+import com.android.settings.Settings.GamingModeActivity;
 import com.android.settings.Settings.PulseSettingsActivity;
 import com.android.settings.Settings.SmartbarSettingsActivity;
 import com.android.settings.TestingSettings;
@@ -144,6 +145,7 @@ import com.android.settings.wifi.p2p.WifiP2pSettings;
 import com.android.settings.wifi.tether.WifiTetherSettings;
 
 import com.aosmp.settings.AOSmPSettings;
+import org.aospextended.extensions.fragments.GamingMode;
 
 public class SettingsGateway {
 
@@ -276,6 +278,7 @@ public class SettingsGateway {
             SmartbarSettingsActivity.class.getName(),
             FlingSettingsActivity.class.getName(),
             PulseSettingsActivity.class.getName()
+            GamingMode.class.getName(),
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
@@ -320,5 +323,6 @@ public class SettingsGateway {
             Settings.SmartbarSettingsActivity.class.getName(),
             Settings.FlingSettingsActivity.class.getName(),
             Settings.PulseSettingsActivity.class.getName()
+            Settings.GamingModeActivity.class.getName(),
     };
 }
