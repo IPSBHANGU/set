@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    
+    <!-- Density category -->
+    <string name="density_category">Opciones de densidad de pantalla</string>
+
+    <!-- Option defining the phone ringtone for slot1 on Muilti SIM device -->
+    <string name="ringtone1_title">Tono de llamada - SIM 1</string>
+    <string name="ringtone2_title">Tono de llamada - SIM 2</string>
+
+    <!-- Battery stats reset -->
+    <string name="battery_stats_reset">Reiniciar estadísticas</string>
+    <string name="battery_stats_message">Las estadísticas del historial de la batería se restablecerán</string>
+    <string name="ok_string">Ok</string>
+
+    <!-- MSIM Manual provisioning -->
+    <string name="sim_enabler_summary"><xliff:g id="displayName">%1$s</xliff:g> is <xliff:g id="status" example="disabled">%2$s</xliff:g></string>
+    <string name="sim_enabled">habilitado</string>
+    <string name="sim_disabled">deshabilitado</string>
+    <string name="sim_missing">faltante o defectuoso</string>
+    <string name="sim_enabler_need_disable_sim">La tarjeta SIM se desactivará. ¿Quieres continuar?</string>
+    <string name="sim_enabler_will_disable_sim_title">Atención</string>
+    <string name="sim_enabler_need_switch_data_service">Esta SIM será deshabilitada y la SIM <xliff:g id="slotid">%1$s</xliff:g> será utilizada para servicios de datos. ¿Estás seguro de que quieres continuar?</string>
+    <string name="sim_enabler_airplane_on">No se puede realizar la operación mientras el modo avión está activado.</string>
+    <string name="sim_enabler_in_call">No se puede realizar la operación durante la llamada.</string>
+    <string name="sim_enabler_both_inactive">No puedo deshabilitar todas las tarjetas SIM</string>
+    <string name="sim_enabler_enabling">Activando\u2026</string>
+    <string name="sim_enabler_disabling">Desactivando\u2026</string>
+    <string name="sub_activate_success">SIM activada.</string>
+    <string name="sub_activate_failed">Activación fallida.</string>
+    <string name="sub_deactivate_success">SIM desactivada.</string>
+    <string name="sub_deactivate_failed">Desactivación fallida.</string>
+    <string name="available_sims_title">Tarjetas SIM disponibles</string>
+  
+    <!-- Volume link notification -->
+    <string name="volume_link_notification_title">Enlazar sonido de llamada y de notificación.</string>
+
+	<!-- Notification log -->
+    <string name="notification_log_summary">Mostrar registro de historial de notificaciones</string>
+
+    <!-- About phone screen, AOSmP version -->
+    <string name="aosmp_version">Versión de AOSmP</string>
+    <string name="aosmp_version_default">Desconocida</string>
+    <string name="keywords_aosmp_version">Versión de AOSmP, versión de aosmp</string>
+
+    <!-- About phone screen, build date -->
+    <string name="build_date">Fecha de compilación</string>
+    <string name="build_date_default">2015-01-01-0000</string>
+    <string name="keywords_build_date">fecha de compilación, informacion de compilación</string>
+
+    <!-- Manage applications, package string displayed in app snippet -->
+    <string name="packagename_text"><xliff:g id="package_name">%1$s</xliff:g></string>
+
+	<!-- Advanced night mode brightness -->
+    <string name="night_brightness_value_title">Brillo más bajo si la luz de la noche esta activa</string>
+    <string name="night_auto_value_disabled">Habilitado</string>
+    <string name="night_auto_value_min">Brillo mínimo</string>
+    <string name="night_bright_low">Brillo bajo</string>
+    <string name="night_bright_midlow">Brillo medio bajo</string>
+
+    <!-- Battery temp -->
+    <string name="battery_temp_title">Temperatura de la batería</string>
+   
+    <!-- Full gesture -->
+    <string name="full_gesture_mode_title">Habilitar el modo de gestos completo</string>
+    <string name="full_gesture_mode_summary">Este modo desactiva el botón de retroceso y puede activar una acción del botón de retroceso al deslizar hacia la izquierda en la barra de navegación. El barrido derecho sigue activando el desplazamiento de las aplicaciones de la última aplicación y de la vista general. Para ir a casa, puede tocar en cualquier espacio vacío de la barra de navegación, no solo en el botón de inicio. Cuando se muestra el teclado, mantenga presionada la barra de navegación para mover el cursor de texto.</string>
+    <string name="full_gesture_mode_dt2s_title">Habilitar doble toque para dormir</string>
+    <string name="full_gesture_mode_dt2s_summary">Toque en un espacio vacío de la barra de navegación, pero no en el botón de inicio, para apagar la pantalla.</string>
+    
+    <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">Sonido de captura de pantalla</string>
+ 
+    <!-- AOSmP Settings -->
+    <string name="aosmp_settings_title">AOSmP</string>
+    <string name="aosmp_settings_summary">Características adicionales</string>
+
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="swipe_to_screenshot_gesture_title">Desliza para captura de pantalla</string>
+    <string name="swipe_to_screenshot_gesture_summary">Desliza tres dedos para tomar la captura de pantalla</string>
+
+    <!-- System theme -->
+    <string name="system_theme_wallpaper">Automático (basado en la hora del día)</string>
+    <string name="system_theme_light">Claro</string>
+    <string name="system_theme_dark">Oscuro</string>
+    <string name="black_theme_title">Usar tema negro</string>
+    <string name="black_theme_summary">Usa tema negro en lugar de oscuro</string>
+    
+    <!-- Font picker -->
+    <string name="font_picker_title">Fuente</string>
+    <string name="font_picker_progress">Aplicando nueva fuente\u2026</string>
+
+    <!-- Battery saving mode for Location - GPS will be disabled -->
+    <string name="location_mode_battery_saving_title">Modo de ahorro de batería</string>
+    <string name="location_mode_battery_saving_summary">Usar solamente Wi\u2011Fi, Bluetooth, o redes móviles para determinar la ubicación (menos precisa)</string>
+   
+    <!-- Aggressive battery -->
+    <string name="aggressive_battery_title">Batería agresiva</string>
+    <string name="aggressive_battery_summary">Ahorro de batería más estricto</string>
+    <string name="aggressive_battery_warning_text">Estas son características de ahorro de energía. Pueden interferir con los servicios destinados a ejecutarse en modo inactivo, como las aplicaciones de navegación. Puede hacer que estas aplicaciones no se vean afectadas en la configuración de la batería de la aplicación.</string>
+    <string name="aggressive_idle_title">Inactividad agresiva</string>
+    <string name="aggressive_idle_summary">Ingresa el dispositivo de manera inactiva con más frecuencia por lo cual despierta menos</string>
+    <string name="aggressive_standby_title">En espera agresiva</string>
+    <string name="aggressive_standby_summary">Evita que las aplicaciones se ejecuten en el fondo</string>
+    <string name="aggressive_battery_saver_title">Auto habilitar en ahorro de batería </string> 
+    <string name="aggressive_battery_saver_summary">Habilite la batería agresiva automáticamente cuando use el ahorrador de batería</string>
+   
+    <!-- Running services -->
+    <string name="background_processes_settings_title">Procesos de fondo</string>
+   
+</resources>
