@@ -116,10 +116,14 @@
 
     <!-- QS tile styles -->
     <string name="qs_tile_style_title">Estilo icono de ajustes rápidos</string>
-    <string name="qs_tile_style_default">Por defecto</string>
-    <string name="qs_tile_style_square">Square</string>
-    <string name="qs_tile_style_rounded_square">Cuadrado redondeado</string>
-    <string name="qs_tile_style_squircle">Squircle</string>
-	<string name="qs_tile_style_tear_drop">Gota de lágrima</string>
+    <string name="qstile_default">Círculo (predeterminado)</string>
+    <string name="qstile_squircle">Squircle</string>
+    <string name="qstile_justicons">Iconos sin circulo</string>
+    <string name="qstile_inkdrop">Gota de tinta</string>
+    <string name="qstile_shishu_nights">Noches de Shishu</string>
+    <string name="qstile_circle_dualtone">Círculo con doble tono</string>
+    <string name="qstile_dottedcircle">Circulo punteado</string>
+    <string name="qstile_shishuink">Tinta Shishu</string>
+	<string name="qstile_attemptmountain">Un intento de montaña</string>
 
 </resources>
