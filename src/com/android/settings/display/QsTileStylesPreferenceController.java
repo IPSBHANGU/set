@@ -32,7 +32,7 @@ import com.android.settingslib.core.lifecycle.Lifecycle;
 import com.android.settingslib.core.lifecycle.LifecycleObserver;
 import com.android.settingslib.core.lifecycle.events.OnResume;
 
-import com.aosip.owlsnest.QsTileStyles;
+import com.aosmp.settings.fragments.themes.QsTileStyles;
 
 public class QsTileStylesPreferenceController extends AbstractPreferenceController
         implements PreferenceControllerMixin, LifecycleObserver, OnResume {
