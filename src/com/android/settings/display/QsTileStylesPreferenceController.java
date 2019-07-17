@@ -23,7 +23,7 @@ import android.support.v7.preference.Preference;
 import android.support.v7.preference.Preference.OnPreferenceClickListener;
 import android.support.v7.preference.PreferenceScreen;
 
-import com.android.internal.util.aosip.aosipUtils;
+import com.android.internal.util.aosmp.aosmpUtils;
 
 import com.android.settings.core.PreferenceControllerMixin;
 
@@ -66,7 +66,7 @@ public class QsTileStylesPreferenceController extends AbstractPreferenceControll
 
     @Override
     public boolean isAvailable() {
-        return !aosipUtils.isPackageInstalled(mContext, SUBS_PACKAGE);
+        return !aosmpUtils.isPackageInstalled(mContext, SUBS_PACKAGE);
     }
 
     @Override
