@@ -808,7 +808,9 @@
     <string name="wifi_configure_settings_preference_summary_wakeup_on" msgid="646393113104367290">"La conexión Wi-Fi se vuelve a activar automáticamente"</string>
     <string name="wifi_configure_settings_preference_summary_wakeup_off" msgid="2782566279864356713">"La conexión Wi-Fi no vuelve a activarse automáticamente"</string>
     <string name="wifi_access_points" msgid="7053990007031968609">"Redes Wi-Fi"</string>
+    <string name="wifi_menu_wps_pbc">"Pulsador WPS"</string>    
     <string name="wifi_menu_more_options" msgid="2448097861752719396">"Más opciones"</string>
+    <string name="wifi_menu_wps_pin">"Entrada pin de WPS"</string> 
     <string name="wifi_menu_p2p" msgid="7619851399250896797">"Wi-Fi Direct"</string>
     <string name="wifi_menu_scan" msgid="1470911530412095868">"Buscar"</string>
     <string name="wifi_menu_advanced" msgid="7522252991919573664">"Ajustes avanzados"</string>
@@ -831,6 +833,19 @@
     <string name="wifi_show_advanced" msgid="3409422789616520979">"Opciones avanzadas"</string>
     <string name="wifi_advanced_toggle_description_expanded" msgid="2380600578544493084">"Lista desplegable Opciones Avanzadas. Tócala dos veces para ocultarla."</string>
     <string name="wifi_advanced_toggle_description_collapsed" msgid="1463812308429197263">"Lista desplegable Opciones Avanzadas. Tócala dos veces para mostrarla."</string>
+    <string name="wifi_wps_setup_title">"Configuración protegida de Wi-Fi (WPS)"</string>
+    <string name="wifi_wps_setup_msg">"Comenzando WPS..."</string>
+    <string name="wifi_wps_onstart_pbc">"Presione el botón Configuración protegida de Wi-Fi en su router. Puede ser llamado WPS o marcado con este símbolo:"</string>
+    <string name="wifi_wps_onstart_pin">"Ingresar pin <xliff:g id="number">%1$s</xliff:g> en router Wi-Fi. La configuración puede tardar hasta dos minutos en completarse"</string>
+    <string name="wifi_wps_complete">"WPS tuvo éxito. Conectándose a la red..."</string>
+    <string name="wifi_wps_connected">"Conectado a la red Wi-Fi <xliff:g id="network_name">%s</xliff:g>"</string>
+    <string name="wifi_wps_in_progress">"WPS ya está en progreso y puede demorar hasta dos minutos en completarse"</string>
+    <string name="wifi_wps_failed_generic">"WPS falló. Por favor, inténtalo de nuevo en unos minutos."</string>
+    <string name="wifi_wps_failed_wep">"La configuración de seguridad del enrutador inalámbrico (WEP) no es compatible"</string>
+    <string name="wifi_wps_failed_tkip">"La configuración de seguridad del enrutador inalámbrico (TKIP) no es compatible"</string>
+    <string name="wifi_wps_failed_auth">"Fallo de autentificacion. Inténtalo de nuevo."</string>
+    <string name="wifi_wps_failed_overlap">"Otra sesión de WPS fue detectada. Por favor, inténtalo de nuevo en unos minutos."</string>
+    <string name="wifi_wps_failed_wifi_disconnected">"Wi-Fi desconectado. Configuración de WPS cancelada."</string>
     <string name="wifi_ssid" msgid="5519636102673067319">"Nombre de la red"</string>
     <string name="wifi_ssid_hint" msgid="897593601067321355">"Introduce el SSID"</string>
     <string name="wifi_security" msgid="6603611185592956936">"Seguridad"</string>
