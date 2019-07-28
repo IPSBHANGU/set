@@ -154,7 +154,7 @@
     <string name="privacy_guard_help_title">Ayuda</string>
     <string name="privacy_guard_reset_title">Reiniciar</string>
     <string name="privacy_guard_reset_text">¿Restablecer permisos?</string>
-    <string name="privacy_guard_help_text">En esta pantalla, puede elegir para qué aplicaciones debe estar activa la protección de privacidad con solo tocarlas. Las aplicaciones seleccionadas no podrán acceder a sus datos personales, como contactos, mensajes o registros de llamadas. Al presionar una vez la entrada de una aplicación, se abre su pantalla de detalles de la aplicación. \ N \ nLas aplicaciones incorporadas no se muestran de manera predeterminada, pero se pueden revelar al seleccionar la opción de menú correspondiente.</string>
+    <string name="privacy_guard_help_text">En esta pantalla, puede elegir para qué aplicaciones debe estar activa la protección de privacidad con solo tocarlas. Las aplicaciones seleccionadas no podrán acceder a sus datos personales, como contactos, mensajes o registros de llamadas. Al presionar una vez la entrada de una aplicación, se abre su pantalla de detalles de la aplicación. Las aplicaciones incorporadas no se muestran de manera predeterminada, pero se pueden revelar al seleccionar la opción de menú correspondiente.</string>
     <string name="privacy_guard_manager_show_system_apps">Mostrar aplicaciones integradas</string>
     <string name="privacy_guard_advanced_settings_title">Avanzada</string>
     <string name="privacy_guard_notification_title">Muestra la notificación</string>
