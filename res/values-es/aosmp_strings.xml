@@ -71,7 +71,7 @@
     <string name="screenshot_sound_title">Sonido de captura de pantalla</string>
  
     <!-- AOSmP Settings -->
-    <string name="aosmp_settings_title">AOSmP</string>
+    <string name="aosmp_settings_title">Ajustes de AOSmP</string>
     <string name="aosmp_settings_summary">Características adicionales</string>
 
     <!-- Three-fingers-swipe to screenshot -->
