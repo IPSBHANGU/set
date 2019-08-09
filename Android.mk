@@ -55,7 +55,7 @@ LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res \
     frameworks/support/v14/preference/res \
     frameworks/support/v7/appcompat/res \
     frameworks/support/v7/recyclerview/res \
-    packages/apps/AOSmPSettings/res
+    packages/apps/AOSmPSettings/res \
     packages/apps/SmartNavSettings/res
 
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
