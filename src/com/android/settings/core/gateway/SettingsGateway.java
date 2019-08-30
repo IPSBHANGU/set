@@ -145,7 +145,7 @@ import com.android.settings.wifi.p2p.WifiP2pSettings;
 import com.android.settings.wifi.tether.WifiTetherSettings;
 
 import com.aosmp.settings.AOSmPSettings;
-import org.aospextended.extensions.fragments.GamingMode;
+import com.aosmp.settings.fragments.GamingMode;
 
 public class SettingsGateway {
 
@@ -277,8 +277,8 @@ public class SettingsGateway {
             NavigationSettingsActivity.class.getName(),
             SmartbarSettingsActivity.class.getName(),
             FlingSettingsActivity.class.getName(),
-            PulseSettingsActivity.class.getName()
-            GamingMode.class.getName(),
+            PulseSettingsActivity.class.getName(),
+            GamingMode.class.getName()
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
@@ -322,7 +322,7 @@ public class SettingsGateway {
             Settings.NavigationSettingsActivity.class.getName(),
             Settings.SmartbarSettingsActivity.class.getName(),
             Settings.FlingSettingsActivity.class.getName(),
-            Settings.PulseSettingsActivity.class.getName()
-            Settings.GamingModeActivity.class.getName(),
+            Settings.PulseSettingsActivity.class.getName(),
+            Settings.GamingModeActivity.class.getName()
     };
 }
