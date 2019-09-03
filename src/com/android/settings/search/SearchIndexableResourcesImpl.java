@@ -99,6 +99,31 @@ import com.android.settings.wfd.WifiDisplaySettings;
 import com.android.settings.wifi.ConfigureWifiSettings;
 import com.android.settings.wifi.WifiSettings;
 
+import com.aosmp.settings.fragments.BatteryLightSettings;
+import com.aosmp.settings.fragments.BatteryStyle;
+import com.aosmp.settings.fragments.ButtonSettings;
+import com.aosmp.settings.fragments.CarrierSettings;
+import com.aosmp.settings.fragments.ClockSettings;
+import com.aosmp.settings.fragments.GamingMode;
+import com.aosmp.settings.fragments.GesturesSettings;
+import com.aosmp.settings.fragments.HeadsUpSettings;
+import com.aosmp.settings.fragments.LockScreenSettings;
+import com.aosmp.settings.fragments.LockVisualizer;
+import com.aosmp.settings.fragments.MiscSettings;
+import com.aosmp.settings.fragments.NotificationSettings;
+import com.aosmp.settings.fragments.OmniGestureSettings;
+import com.aosmp.settings.fragments.PowerMenuSettings;
+import com.aosmp.settings.fragments.QuickSettings;
+import com.aosmp.settings.fragments.RecentsSettings;
+import com.aosmp.settings.fragments.ScreenStateToggles;
+import com.aosmp.settings.fragments.StatusBarSettings;
+import com.aosmp.settings.fragments.TrafficSettings;
+import com.aosmp.settings.fragments.VolumeStepsFragment;
+import com.android.settings.smartnav.FlingSettings;
+import com.android.settings.smartnav.PulseSettings;
+import com.android.settings.smartnav.SmartbarSettings;
+import com.android.settings.smartnav.NavigationBarSettings;
+
 import java.util.Collection;
 import java.util.HashSet;
 import java.util.Set;
@@ -193,6 +218,32 @@ public class SearchIndexableResourcesImpl implements SearchIndexableResources {
         addIndex(RecentLocationRequestSeeAllFragment.class);
         addIndex(PreviouslyConnectedDeviceDashboardFragment.class);
         addIndex(BluetoothDashboardFragment.class);
+
+        //AOSmP Additions
+        addIndex(BatteryLightSettings.class);
+        addIndex(BatteryStyle.class);
+        addIndex(ButtonSettings.class);
+        addIndex(CarrierSettings.class);
+        addIndex(ClockSettings.class);
+        addIndex(GamingMode.class);
+        addIndex(GesturesSettings.class);
+        addIndex(HeadsUpSettings.class);
+        addIndex(LockScreenSettings.class);
+        addIndex(LockVisualizer.class);
+        addIndex(MiscSettings.class);
+        addIndex(NotificationSettings.class);
+        addIndex(OmniGestureSettings.class);
+        addIndex(PowerMenuSettings.class);
+        addIndex(QuickSettings.class);
+        addIndex(RecentsSettings.class);
+        addIndex(ScreenStateToggles.class);
+        addIndex(StatusBarSettings.class);
+        addIndex(TrafficSettings.class);
+        addIndex(VolumeStepsFragment.class);            
+        addIndex(FlingSettings.class);
+        addIndex(PulseSettings.class);
+        addIndex(SmartbarSettings.class);
+        addIndex(NavigationBarSettings.class);
     }
 
     @Override
