@@ -26,7 +26,7 @@
         android:title="@string/smart_charging_switch_title"
         android:defaultValue="false" />
 
-    <com.aosmp.settings.preferences.CustomSeekBarPreference
+    <com.aosmp.settings.preferences.SystemSettingSwitchPreference
         android:key="smart_charging_reset_stats"
         android:title="@string/smart_charging_reset_stats_title"
         android:summary="@string/smart_charging_reset_stats_summary"
